@@ -23,7 +23,9 @@ O projeto explora dados relacionados ao nível de escolaridade, faixa etária, g
 ## 📈 Dashboard Final — Análise de Diversidade
 
 O Dashboard Final foi desenvolvido no Looker Studio com o objetivo de visualizar dados relacionados à diversidade e ao perfil profissional.
-
+A imagem abaixo contém apenas a primeira parte do DashBoard, o arquivo completo está abaixo.
+<img src="Captura de tela 2026-10-05 212231.png">
+<a src="">
 
 A análise contempla as seguintes dimensões:
 
